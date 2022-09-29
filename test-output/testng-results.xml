@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T18:52:09 IST" name="Default suite" finished-at="2022-09-29T18:52:16 IST" duration-ms="6903">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T18:52:09 IST" name="Default test" finished-at="2022-09-29T18:52:16 IST" duration-ms="6903">
+      <class name="itera.IteraAuto2nd">
+        <test-method is-config="true" signature="iteraLaunch()[pri:0, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:51:36 IST" name="iteraLaunch" finished-at="2022-09-29T18:52:09 IST" duration-ms="32757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iteraLaunch -->
+        <test-method signature="NavigateToTestAutomation()[pri:1, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:09 IST" name="NavigateToTestAutomation" finished-at="2022-09-29T18:52:11 IST" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToTestAutomation -->
+        <test-method signature="FillDetails()[pri:2, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:11 IST" name="FillDetails" finished-at="2022-09-29T18:52:13 IST" duration-ms="2288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillDetails -->
+        <test-method signature="radioButtonAndCheckBox()[pri:3, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:13 IST" name="radioButtonAndCheckBox" finished-at="2022-09-29T18:52:14 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonAndCheckBox -->
+        <test-method signature="SelectFromDropDown()[pri:4, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:14 IST" name="SelectFromDropDown" finished-at="2022-09-29T18:52:14 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFromDropDown -->
+        <test-method signature="RadioCheck()[pri:5, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:14 IST" name="RadioCheck" finished-at="2022-09-29T18:52:16 IST" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioCheck -->
+        <test-method signature="upload()[pri:6, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:16 IST" name="upload" finished-at="2022-09-29T18:52:16 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload -->
+        <test-method is-config="true" signature="taskPerformed()[pri:0, instance:itera.IteraAuto2nd@bcec361]" started-at="2022-09-29T18:52:16 IST" name="taskPerformed" finished-at="2022-09-29T18:52:27 IST" duration-ms="10373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taskPerformed -->
+      </class> <!-- itera.IteraAuto2nd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
